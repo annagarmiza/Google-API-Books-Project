@@ -135,8 +135,8 @@ p {
 }
 
 .book_desc {
-  margin-left: 0.5em;
   margin-right: 0.5em;
+  padding: 1em;
 }
 .book_desc p {
   color: rgb(0, 0, 0);
