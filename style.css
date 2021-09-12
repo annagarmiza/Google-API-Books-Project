@@ -175,6 +175,7 @@ p {
   }
   .book_info {
     width: 70%;
+    height: 6rem;
   }
   .book_img {
     width: 30%;
