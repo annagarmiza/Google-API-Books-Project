@@ -101,7 +101,7 @@ p {
 }
 
 .card:nth-child(even) .book_img {
-  clip-path: polygon(0 0, 100% 0%, 100% 100%, 6% 100%);
+  /* clip-path: polygon(0 0, 100% 0%, 100% 100%, 6% 100%); */
 }
 
 .card:last-child {
@@ -124,7 +124,7 @@ p {
   width: 20%;
   height: 16rem;
   object-fit: cover;
-  clip-path: polygon(6% 0, 100% 0%, 100% 100%, 0% 100%);
+  /* clip-path: polygon(6% 0, 100% 0%, 100% 100%, 0% 100%); */
 }
 
 .book_img img {
