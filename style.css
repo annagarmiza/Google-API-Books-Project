@@ -146,6 +146,9 @@ p {
   form {
     top: 1rem;
   }
+  .books_results {
+    top: 5rem;
+  }
   .search_field {
     padding: 0.5em;
     width: 70%;
