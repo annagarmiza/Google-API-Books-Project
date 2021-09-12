@@ -41,7 +41,6 @@ const getBooks = async function (API) {
           img: bookImg,
         };
       });
-      console.log(books);
       //Rendering books
       markup = `
         <div class="cards_list">
