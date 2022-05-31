@@ -169,6 +169,10 @@ p {
   h2 {
     font-size: 100%;
   }
+  
+  .card {
+    width:100%;
+    max-width:20rem;
 
   .img_book_container {
     width: 100%;
